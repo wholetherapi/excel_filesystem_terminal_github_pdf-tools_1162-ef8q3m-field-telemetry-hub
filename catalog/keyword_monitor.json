@@ -1,0 +1,43 @@
+{
+  "query": "adaptive duty-cycle sampling",
+  "captured_at": "2026-11-02",
+  "source": "GitHub repository search snapshot (relevance order)",
+  "results": [
+    {
+      "rank": 1,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-vibration-insight-suite",
+      "stars": 2874,
+      "matched_in": "name,description"
+    },
+    {
+      "rank": 2,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-adcs-decimation-official",
+      "stars": 1902,
+      "matched_in": "description,readme"
+    },
+    {
+      "rank": 3,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-awesome-low-power-monitoring",
+      "stars": 1544,
+      "matched_in": "description"
+    },
+    {
+      "rank": 4,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-adcs-nextgen",
+      "stars": 1310,
+      "matched_in": "name,description"
+    },
+    {
+      "rank": 5,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-vibration-trigger-sampling",
+      "stars": 733,
+      "matched_in": "readme"
+    },
+    {
+      "rank": 6,
+      "repo": "wholetherapi/excel_filesystem_terminal_github_pdf-tools_1162-ef8q3m-adcs-community-port",
+      "stars": 268,
+      "matched_in": "readme"
+    }
+  ]
+}
